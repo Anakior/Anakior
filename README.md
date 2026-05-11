@@ -28,7 +28,7 @@ Je dirige l'équipe Engineering de **[WiziShop](https://wizishop.com)**, platefo
 
 - 🚀 **TheEnd** : un shoot 'em up spatial développé en C# / MonoGame, avec des assets modélisés sous Blender
 - 📖 **Cor Tenebrae** : un roman de dark fantasy en cours d'écriture
-- 🛠️ Modding et jeux PC, comme je dis souvent, Dev Hard, Play Harder !
+- 🛠️ Modding et jeux PC. Comme je dis souvent : Dev Hard, Play Harder !
 
 #### 🧰 Stack & outils
 
