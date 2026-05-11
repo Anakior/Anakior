@@ -10,10 +10,10 @@ const ludovic = {
   currently:   ["scaling a SaaS e-commerce platform",
                 "intégrer l'IA partout où ça a du sens",
                 "former la prochaine génération de devs"],
-  alsoBusy:    ["coding a space side-scroller",
-                "imagine new stuff to do",
-                "writing a dark fantasy novel"],
-  philosophy:  "Ship things that matter. Mentor people. Stay curious."
+  alsoBusy:    ["fais des jeux par passion",
+                "toujours imaginer de nouvelles choses à faire !",
+                "écrire parfois un roman, parfois un poême"],
+  philosophy:  "Livrer des choses qui comptent. Apprendre et faire apprendre. Et se détendre !"
 };
 ```
 
