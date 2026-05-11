@@ -6,11 +6,12 @@
 const ludovic = {
   role:        "Head of Engineering @ WiziShop",
   location:    "Sud de la France 🌅",
-  experience:  "25+ years (j'ai commencé à 10 ans, sur un coup de tête)",
+  experience:  "25+ years (j'ai commencé enfant sans jamais lacher un clavier depuis)",
   currently:   ["scaling a SaaS e-commerce platform",
                 "intégrer l'IA partout où ça a du sens",
                 "former la prochaine génération de devs"],
   alsoBusy:    ["coding a space side-scroller",
+                "imagine new stuff to do",
                 "writing a dark fantasy novel"],
   philosophy:  "Ship things that matter. Mentor people. Stay curious."
 };
