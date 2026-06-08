@@ -1,11 +1,8 @@
-<img src="banner.png" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
-
-<br>
-
 <div align="center">
 <strong>🇬🇧 English</strong> &nbsp;·&nbsp; <a href="README.fr.md">🇫🇷 Français</a>
 </div>
-
+<img src="banner.png" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
+<br>
 <h3 align="center">Dev hard, play harder.</h3>
 
 ```
