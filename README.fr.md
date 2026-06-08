@@ -6,6 +6,7 @@
 <hr>
 <h3 align="center">Dev hard, play harder.</h3>
 <hr>
+<br>
 
 ```
 $ git log --oneline --author="Anakior"
@@ -26,6 +27,7 @@ En dehors du boulot, je fais des jeux (**TheEnd**, un shoot 'em up spatial en C#
 
 Partant pour parler archi SaaS, management d'équipe d'ingénierie, IA en prod, ou du prochain RPG qui vaut bien trop d'heures.
 
+<br>
 <br>
 <hr>
 <div align="center">
