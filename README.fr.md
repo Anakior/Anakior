@@ -28,7 +28,7 @@ En dehors du boulot, je fais des jeux (**TheEnd**, un shoot 'em up spatial en C#
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,ts,angular,react,nodejs,cs,dotnet,blender,mysql,mongodb,docker&theme=dark" alt="PHP, TypeScript, Angular, React, Node, C#, .NET, Blender, MySQL, MongoDB, Docker" />
-<br><br>
+<br>
 <sub>Ce que je dégaine le plus souvent. Le reste, je l'apprends en route.</sub>
 </div>
 
