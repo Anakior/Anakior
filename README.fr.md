@@ -1,38 +1,30 @@
-[🇬🇧 English](README.md) · **🇫🇷 Français**
+<img src="banner.png" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
 
-### Salut, moi c'est Ludovic (*aka* Anakior)
+<div align="center">
+<a href="README.md">🇬🇧 English</a> &nbsp;·&nbsp; <strong>🇫🇷 Français</strong>
+</div>
 
-> *La technologie est un moyen, pas une fin.*
+<h3 align="center">Dev hard, play harder.</h3>
 
 ```
-$ git log --author="Anakior" --oneline
+$ git log --oneline --author="Anakior"
 
-f1e2d3c  feat: scaler une plateforme e-commerce SaaS française @ WiziShop
-a4b5c6d  feat: livrer de l'IA là où ça compte vraiment
-9e8f7a6  feat: former la prochaine génération de devs
-3c2b1a0  chore(perso): développer TheEnd — un shmup spatial en C# / MonoGame
-d0c9b8a  docs(perso): écrire Cor Tenebrae, un roman de dark fantasy
-         ... 25 ans de commits, commencé gamin, aucun rollback prévu
+diriger l'engineering d'un SaaS e-commerce français
+former des devs, peu importe le langage
+faire un jeu et en modéliser les assets sous Blender
+écrire de la dark fantasy quand les mots viennent
+démonter des systèmes de RPG pour le plaisir
+... commencé gamin, toujours pas de rollback
 ```
 
----
+Je dirige l'équipe derrière un SaaS e-commerce multi-tenant chez [WiziShop](https://wizishop.com) : une stack PHP et Angular qu'on modernise petit à petit vers CQRS et DDD. Je tiens davantage aux équipes et aux systèmes qui durent qu'à ce qui fait une belle démo. À côté, je forme des devs dans à peu près n'importe quel langage, parce que j'aime apprendre et transmettre à parts égales.
 
-#### 🏗️ Côté pro
+En dehors du boulot, je fais des jeux (**TheEnd**, un shoot 'em up spatial en C# / MonoGame) et j'écris de la dark fantasy que je ne suis pas pressé de finir. Le reste du temps, je suis joueur de RPG jusqu'à la moelle, et j'en démonte les systèmes comme un ingénieur. Je préfère lire les chiffres bruts qu'un guide tout fait, comme je me méfie d'un LLM qui invente des mécaniques de jeu avec aplomb.
 
-Je dirige l'équipe Engineering de **[WiziShop](https://wizishop.com)**, plateforme e-commerce SaaS française. On y fait évoluer une stack hybride — PHP / Angular, migration progressive vers CQRS / DDD, architecture multi-tenant — avec une équipe organisée en pôles Back, Front et Expertise.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,ts,angular,react,nodejs,cs,dotnet,blender,mysql,docker&theme=dark" alt="PHP, TypeScript, Angular, React, Node, C#, .NET, Blender, MySQL, Docker" />
+<br>
+<sub>Ce que je dégaine le plus souvent. Le reste, je l'apprends en route.</sub>
+</div>
 
-À côté, je suis **formateur indépendant**. Je forme sur **React, Node.js et Angular**, du front au back. J'aime apprendre, j'aime transmettre. C'est probablement la même chose.
-
-#### 🎮 Côté perso
-
-- 🚀 **[TheEnd](https://github.com/Anakior/TheEnd)** — un shoot 'em up spatial développé en C# / MonoGame, avec des assets modélisés sous Blender
-- 📖 **Cor Tenebrae** — un roman de dark fantasy en cours d'écriture
-- 🛠️ Jeux PC et modding. Comme je dis souvent : **Dev Hard, Play Harder.**
-
-#### 🧰 Stack & outils
-
-`PHP` · `TypeScript` · `Angular` · `React` · `Node.js` · `C#` · `MonoGame` · `Blender` · `SQL` · `Docker`
-
----
-
-<sub>💡 Toujours partant pour échanger sur l'architecture SaaS, le leadership tech, l'IA en prod — ou un bon RPG.</sub>
+Partant pour parler archi SaaS, management d'équipe d'ingénierie, IA en prod, ou du prochain RPG qui vaut bien trop d'heures.
