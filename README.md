@@ -4,11 +4,9 @@
 <br>
 <img src="banner.png" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
 <hr>
-<p align="center">
-
-$\textsf{Dev } \color{#FBC678}{\textit{hard}}\textsf{, play } \color{#FBC678}{\textit{harder.}}$
-
-</p>
+<div align="center">
+<img src="tagline.png" alt="Dev hard, play harder." />
+</div>
 <hr>
 <br>
 
