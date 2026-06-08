@@ -1,38 +1,34 @@
-**🇬🇧 English** · [🇫🇷 Français](README.fr.md)
+<div align="center">
 
-### Hi, I'm Ludovic (*aka* Anakior)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b0c1e,100:5a3b8c&height=190&section=header&text=Ludovic%20Bassilana&fontColor=ffffff&fontSize=46&desc=Head%20of%20Engineering%20%7C%20Independent%20Trainer&descSize=18&fontAlignY=40&descAlignY=62" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
 
-> *Technology is a means, not an end.*
+<strong>🇬🇧 English</strong> &nbsp;·&nbsp; <a href="README.fr.md">🇫🇷 Français</a>
+
+</div>
+
+<br>
 
 ```
-$ git log --author="Anakior" --oneline
+$ git log --oneline --author="Anakior"
 
-f1e2d3c  feat: scale a French SaaS e-commerce platform @ WiziShop
-a4b5c6d  feat: ship AI where it actually matters
-9e8f7a6  feat: train the next generation of devs
-3c2b1a0  chore(perso): build TheEnd — a space shmup in C# / MonoGame
-d0c9b8a  docs(perso): write Cor Tenebrae, a dark fantasy novel
-         ... 25 years of commits, started as a kid, no plans to revert
+leading engineering at a French e-commerce SaaS
+teaching React, Node and Angular on the side
+making a game and modeling its art in Blender
+writing dark fantasy when the words come
+reverse-engineering ARPG builds for fun
+... started as a kid, still no rollback
 ```
 
----
+I lead the team behind a multi-tenant e-commerce SaaS at [WiziShop](https://wizishop.com): a PHP and Angular stack we keep modernizing toward CQRS and DDD. I care more about teams and systems that last than about anything that demos well. On the side I train developers in React, Node and Angular, because I like learning and handing it over in equal measure.
 
-#### 🏗️ Work
+Off the clock I make games (**TheEnd**, a space shoot 'em up in C# / MonoGame) and write dark fantasy I'm in no hurry to finish. The rest of the time I'm an ARPG player, mostly the Path of Exile kind, and I take builds apart like systems. I'd sooner read the raw numbers than trust a guide, the same way I don't trust an LLM that invents game mechanics with a straight face. Dev hard, play harder.
 
-I lead the Engineering team at **[WiziShop](https://wizishop.com)**, a French SaaS e-commerce platform. We grow a hybrid stack — PHP / Angular, a progressive move to CQRS / DDD, multi-tenant architecture — with a team organized into Back, Front and Expertise squads.
+<div align="center">
 
-On the side, I'm an **independent trainer**. I teach **React, Node.js and Angular**, from front to back. I like learning, I like passing it on — probably the same thing.
+<img src="https://skillicons.dev/icons?i=php,ts,angular,react,nodejs,cs,dotnet,blender,mysql,docker&theme=dark" alt="PHP, TypeScript, Angular, React, Node, C#, .NET, Blender, MySQL, Docker" />
 
-#### 🎮 Off the clock
+</div>
 
-- 🚀 **[TheEnd](https://github.com/Anakior/TheEnd)** — a space shoot 'em up built in C# / MonoGame, with assets modeled in Blender
-- 📖 **Cor Tenebrae** — a dark fantasy novel, currently in the works
-- 🛠️ PC gaming and modding. As I like to put it: **Dev Hard, Play Harder.**
+Happy to talk SaaS architecture, leading engineering teams, AI in production, or which ARPG is worth far too many hours.
 
-#### 🧰 Stack & tools
-
-`PHP` · `TypeScript` · `Angular` · `React` · `Node.js` · `C#` · `MonoGame` · `Blender` · `SQL` · `Docker`
-
----
-
-<sub>💡 Always up for a chat about SaaS architecture, tech leadership, shipping AI to production — or a good RPG.</sub>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:5a3b8c,100:0b0c1e&height=110&section=footer" width="100%" alt="" />
