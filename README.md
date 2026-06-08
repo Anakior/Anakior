@@ -6,6 +6,7 @@
 <hr>
 <h3 align="center">Dev hard, play harder.</h3>
 <hr>
+<br>
 
 ```
 $ git log --oneline --author="Anakior"
@@ -18,7 +19,6 @@ taking RPG systems apart for the fun of it
 ... started as a kid, still no rollback
 ```
 
-<br>
 
 I lead the team behind a multi-tenant e-commerce SaaS at [WiziShop](https://wizishop.com): a PHP and Angular stack we keep modernizing toward CQRS and DDD. I care more about teams and systems that last than about anything that demos well. On the side I train developers in just about any language, because I like learning and handing it over in equal measure.
 
