@@ -26,12 +26,13 @@ Off the clock I make games (**TheEnd**, a space shoot 'em up in C# / MonoGame) a
 
 <br>
 
+Happy to talk SaaS architecture, leading engineering teams, AI in production, or which RPG is worth far too many hours.
+
+
+<br>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,ts,angular,react,nodejs,cs,dotnet,blender,mysql,mongodb,docker&theme=dark" alt="PHP, TypeScript, Angular, React, Node, C#, .NET, Blender, MySQL, MongoDB, Docker" />
 <br>
 <sub>What I reach for most. The rest, I pick up as I go.</sub>
 </div>
-
-<br>
-
-Happy to talk SaaS architecture, leading engineering teams, AI in production, or which RPG is worth far too many hours.
