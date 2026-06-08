@@ -4,7 +4,9 @@
 <br>
 <img src="banner.png" width="100%" alt="Ludovic Bassilana — Head of Engineering, Independent Trainer" />
 <hr>
-<h3 align="center">Dev hard, play harder.</h3>
+<div align="center">
+<img src="tagline-new.png" alt="Dev hard, play harder." />
+</div>
 <hr>
 <br>
 
