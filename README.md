@@ -28,6 +28,7 @@ Off the clock I make games (**TheEnd**, a space shoot 'em up in C# / MonoGame) a
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,ts,angular,react,nodejs,cs,dotnet,blender,mysql,mongodb,docker&theme=dark" alt="PHP, TypeScript, Angular, React, Node, C#, .NET, Blender, MySQL, MongoDB, Docker" />
+<br>
 <sub>What I reach for most. The rest, I pick up as I go.</sub>
 </div>
 
