@@ -26,6 +26,7 @@ Off the clock I make games (**TheEnd**, a space shoot 'em up in C# / MonoGame) a
 
 Happy to talk SaaS architecture, leading engineering teams, AI in production, or which RPG is worth far too many hours.
 <br>
+<br>
 
 <hr>
 
