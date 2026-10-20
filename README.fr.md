@@ -29,7 +29,7 @@ Pendant près de 14 ans, j'ai fait grandir [WiziShop](https://wizishop.com), un 
 
 L'IA est le fil rouge de mes dernières années, et toujours en production plutôt qu'en démo. Chez WiziShop, j'ai monté la plateforme d'IA générative intégrée à l'admin marchand. Ensuite est venu [**Atlas Mind**](https://github.com/Anakior/atlas-mind), en open source : une base de connaissances git-native exposée en MCP, pour que humains et agents IA lisent et écrivent la même mémoire versionnée (serveur Python sans dépendance sur PyPI, client en TypeScript).
 
-L'étape d'après tourne déjà : le site du **CPG83**, une association du Var. J'ai conçu le CMS sur mesure, multi-associations dès le départ, et il se pilote entièrement en MCP : pages, modules, événements, médias, candidatures. L'équipe de l'asso gère son site en parlant à son assistant IA plutôt que dans un back-office. Le tout tient sur une VM de 512 Mo et une base Postgres gratuite, si bien que l'association ne paie rien.
+L'étape d'après tourne déjà : le site de [**CPG83, le Cercle des Partenaires**](https://www.cpg83.fr), une association du Var. J'ai conçu le CMS sur mesure, multi-associations dès le départ, et il se pilote entièrement en MCP : pages, modules, événements, médias, candidatures. L'équipe de l'asso gère son site en parlant à son assistant IA plutôt que dans un back-office. Le tout tient sur une VM de 512 Mo et une base Postgres gratuite, si bien que l'association ne paie rien.
 
 **La suite :** je cherche un poste de CTO ou d'Engineering Manager, en full remote ou autour de Nice / Sophia Antipolis. Idéalement une équipe qui construit AI-native, là où la culture technique reste à écrire.
 

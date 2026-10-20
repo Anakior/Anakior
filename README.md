@@ -27,7 +27,7 @@ For nearly 14 years I helped grow [WiziShop](https://wizishop.com), a multi-tena
 
 AI has been the common thread of my last few years, and always in production rather than in a demo. At WiziShop I built the generative AI platform inside the merchant admin. Then came [**Atlas Mind**](https://github.com/Anakior/atlas-mind), open source: a git-native knowledge base served over MCP, so humans and AI agents read and write the same versioned memory (zero-dependency Python server on PyPI, TypeScript client).
 
-The next step is already live: the website of **CPG83**, a nonprofit in the south of France. I designed the custom CMS, multi-tenant from day one, and it's driven entirely over MCP: pages, modules, events, media, applications. The association's team runs its site by talking to their AI assistant rather than through a back office. It all fits on a single 512 MB VM and a free Postgres tier, so the association pays nothing.
+The next step is already live: the website of [**CPG83, le Cercle des Partenaires**](https://www.cpg83.fr), a nonprofit in the Var, south of France. I designed the custom CMS, multi-tenant from day one, and it's driven entirely over MCP: pages, modules, events, media, applications. The association's team runs its site by talking to their AI assistant rather than through a back office. It all fits on a single 512 MB VM and a free Postgres tier, so the association pays nothing.
 
 **What's next:** I'm looking for a CTO or Engineering Manager role, full remote or around Nice / Sophia Antipolis. Ideally a team that builds AI-native, where the engineering culture is still being written.
 
