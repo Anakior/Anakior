@@ -29,7 +29,7 @@ Près de 14 ans chez [WiziShop](https://wizishop.com), un SaaS e-commerce multi-
 
 L'IA en production est mon fil rouge : d'abord la plateforme d'IA générative de l'admin WiziShop, puis [**Atlas Mind**](https://github.com/Anakior/atlas-mind), une base de connaissances git-native exposée en MCP, et aujourd'hui le CMS de [**CPG83, le Cercle des Partenaires**](https://www.cpg83.fr), que l'association pilote entièrement depuis son assistant IA.
 
-**La suite :** je cherche un poste de CTO ou d'Engineering Manager, en full remote ou autour de Nice / Sophia Antipolis. Mon vrai métier, c'est les gens : faire grandir une équipe, lui faire confiance, et la protéger du bruit pour qu'elle puisse bosser.
+**La suite :** je cherche un poste de CTO ou d'Engineering Manager, en full remote ou autour de Nice / Sophia Antipolis. Mon vrai métier, c'est les gens : faire grandir une équipe, lui faire confiance, et amener chacun à devenir la meilleure version de lui-même.
 
 Mon gros projet perso, c'est **TheEnd** : un colony sim à bord de la dernière arche de l'humanité, où l'horreur cosmique ne détruit pas, elle possède. Plus la colonie produit, plus elle s'expose, et il n'existe aucun équilibre stable : on gère une entropie qui ne s'arrête jamais. Combats tactiques au tour par tour, et deux rendus à part entière, ASCII et sprites, branchés sur le même cœur de simulation. C# / MonoGame, moteur headless séparé du client, assets modélisés sous Blender.
 
