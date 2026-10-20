@@ -14,8 +14,8 @@
 $ git log --oneline --author="Anakior"
 
 nearly 14 years growing WiziShop, on both the tech and product side
-building harnesses to work with AI agents day to day
 shipping Atlas Mind, an open-source MCP knowledge base
+running a nonprofit CMS driven end to end over MCP
 making TheEnd, a colony sim, and modeling its art in Blender
 teaching developers, whatever the language
 writing dark fantasy when the words come
@@ -25,9 +25,9 @@ taking RPG systems apart for the fun of it
 
 For nearly 14 years I helped grow [WiziShop](https://wizishop.com), a multi-tenant e-commerce SaaS, always holding both ends: tech and product. Lead developer and technical project manager, then engineering manager and senior PM, then Head of Engineering & Product Delivery. In practice: owning the roadmap and the trade-offs, writing the process that takes a feature from idea to production, running projects with partners (payments, banking, booking), and growing a team to nine developers. I care more about teams and systems that last than about anything that demos well.
 
-These days a lot of my time goes into one question: how do you actually work with AI on a project of real size. I build harnesses around my own projects so agents are effective day to day: context, tooling, process. It picks up where the generative AI platform I built at WiziShop left off.
+AI has been the common thread of my last few years, and always in production rather than in a demo. At WiziShop I built the generative AI platform inside the merchant admin. Then came [**Atlas Mind**](https://github.com/Anakior/atlas-mind), open source: a git-native knowledge base served over MCP, so humans and AI agents read and write the same versioned memory (zero-dependency Python server on PyPI, TypeScript client).
 
-On the open-source side, that becomes [**Atlas Mind**](https://github.com/Anakior/atlas-mind): a git-native knowledge base served over MCP, so humans and AI agents read and write the same versioned memory. Zero-dependency Python server on PyPI, TypeScript client.
+The next step is already live: the website of **CPG83**, a nonprofit in the south of France. I designed the custom CMS, multi-tenant from day one, and it's driven entirely over MCP: pages, modules, events, media, applications. The association's team runs its site by talking to their AI assistant rather than through a back office. It all fits on a single 512 MB VM and a free Postgres tier, so the association pays nothing.
 
 **What's next:** I'm looking for a CTO or Engineering Manager role, full remote or around Nice / Sophia Antipolis. Ideally a team that builds AI-native, where the engineering culture is still being written.
 
